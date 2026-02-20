@@ -1,0 +1,18 @@
+#icon {
+    width: 70px;
+    height: 80px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background-color: darkolivegreen;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#link {
+     padding-right: 10px;
+}
